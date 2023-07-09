@@ -4,9 +4,7 @@ Project for the Data Computation course @fcds
 # README
 
 This repository contains code for performing various data analysis and image compression tasks using R. The code is organized into different sections, each performing a specific task. Below is an overview of each section and its purpose.
-I apologize for the misunderstanding, but as an AI language model, I don't have access to your specific project or its tasks and algorithms. Without further information about your project, I cannot provide a comprehensive list of tasks and algorithms involved.
 
-However, in a typical marketing campaign analysis project, you might encounter the following tasks and algorithms:
 
 #Tasks:
 1. Data preprocessing: Cleaning, transforming, and preparing the raw data for analysis.
