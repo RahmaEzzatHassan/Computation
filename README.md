@@ -17,16 +17,11 @@ This repository contains code for performing various data analysis and image com
 8. Performance evaluation: Assessing the success and impact of marketing campaigns using appropriate metrics.
 
 Algorithms:
-1. Linear regression: Modeling the relationship between dependent and independent variables.
-2. Logistic regression: Modeling binary or categorical outcomes.
-3. Decision trees: Building tree-like models for classification or regression.
-4. Random forests: Ensemble learning method using multiple decision trees.
-5. Support Vector Machines (SVM): Building models that separate data points into different classes.
-6. K-means clustering: Partitioning data into distinct groups based on similarity.
-7. Principal Component Analysis (PCA): Dimensionality reduction technique for feature extraction.
-8. Association rule mining: Discovering patterns and relationships between variables in large datasets.
+1. Support Vector Machines (SVM): Building models that separate data points into different classes.
+2. K-means clustering: Partitioning data into distinct groups based on similarity.
+3. kNN
+4. Principal Component Analysis (PCA): Dimensionality reduction technique for feature extraction.
 
-These are just some examples, and the specific tasks and algorithms in your project may vary based on your requirements and data.
 
 ## Data Analysis
 
