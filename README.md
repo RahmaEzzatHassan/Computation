@@ -10,11 +10,9 @@ This repository contains code for performing various data analysis and image com
 1. Data preprocessing: Cleaning, transforming, and preparing the raw data for analysis.
 2. Exploratory data analysis: Understanding the data, identifying patterns, and exploring relationships between variables.
 3. Feature engineering: Creating new features or transforming existing features to improve the analysis.
-4. Predictive modeling: Building models to predict outcomes or performance metrics of marketing campaigns.
-5. Classification: Categorizing campaigns into different groups based on specific criteria.
-6. Clustering: Grouping similar campaigns together based on their characteristics.
-7. A/B testing: Analyzing the effectiveness of different campaign strategies by comparing two or more variants.
-8. Performance evaluation: Assessing the success and impact of marketing campaigns using appropriate metrics.
+4. Classification: Categorizing campaigns into different groups based on specific criteria.
+5. Clustering: Grouping similar campaigns together based on their characteristics.
+6. Performance evaluation
 
 Algorithms:
 1. Support Vector Machines (SVM): Building models that separate data points into different classes.
